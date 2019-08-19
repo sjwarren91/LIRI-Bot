@@ -3,7 +3,7 @@ var keys = require("./keys.js");
 var Spotify = require("node-spotify-api");
 var axios = require("axios");
 var moment = require("moment");
-var fs = require('fs');
+var fs = require("fs");
 
 var spotify = new Spotify(keys.spotify);
 
@@ -11,7 +11,7 @@ var command = process.argv[2];
 
 var variable = process.argv.splice(3).join(" ");
 
-switch(command) {
+switch (command) {
     case "spotify-this-song":
         spotifyThisSong(variable);
         break;
@@ -19,13 +19,16 @@ switch(command) {
         concertThis(variable);
         break;
     case "movie-this":
-        if(variable){
+        if (variable) {
             movieThis(variable);
         } else {
             movieThis("Mr. Nobody");
         }
         break;
-};
+    case "do-what-it-says":
+        doWhatItSays();
+        break;
+}
 
 function spotifyThisSong(song) {
     spotify
@@ -51,11 +54,19 @@ function concertThis(artist) {
     axios
         .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
         .then(function(response) {
+
             if (response.data.length > 0) {
-                for (let i = 0; i < 5; i++) {
-                    var venue = response.data[i].venue.name;
-                    var location = response.data[i].venue.city + ", " + response.data[i].venue.region;
-                    var date = moment(response.data[i].datetime.split("T")[0], "YYYY-MM-DD").format("DD/MM/YYYY");
+                for (let i = 0; i < response.data.length; i++) {
+                    var venue, location, date;
+                    
+                    if(response.data[i].venue){
+                        venue = response.data[i].venue.name;
+                        location = response.data[i].venue.city + ", " + response.data[i].venue.region;
+                    }
+
+                    if(response.data[i].datetime){
+                        date = moment(response.data[i].datetime.split("T")[0], "YYYY-MM-DD").format("DD/MM/YYYY");
+                    }
 
                     console.log("=================================================================");
                     console.log("Venue: " + venue + "\n");
@@ -92,4 +103,25 @@ function movieThis(movie) {
         .catch(function(err) {
             console.log(err);
         });
+}
+
+function doWhatItSays() {
+    fs.readFile("random.txt", "utf8", function(error, data) {
+        if (error) throw error;
+
+        var dataArr = data.split(",");
+        console.log(dataArr);
+
+        switch (dataArr[0]) {
+            case "movie-this":
+                movieThis(dataArr[1]);
+                break;
+            case "concert-this":
+                concertThis(dataArr[1]);
+                break;
+            case "spotify-this-song":
+                spotifyThisSong(dataArr[1]);
+                break;
+        }
+    });
 }
