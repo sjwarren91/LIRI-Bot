@@ -3,6 +3,7 @@ var keys = require("./keys.js");
 var Spotify = require("node-spotify-api");
 var axios = require("axios");
 var moment = require("moment");
+var fs = require('fs');
 
 var spotify = new Spotify(keys.spotify);
 
@@ -16,6 +17,13 @@ switch(command) {
         break;
     case "concert-this":
         concertThis(variable);
+        break;
+    case "movie-this":
+        if(variable){
+            movieThis(variable);
+        } else {
+            movieThis("Mr. Nobody");
+        }
         break;
 };
 
@@ -54,7 +62,32 @@ function concertThis(artist) {
                     console.log("Location: " + location + "\n");
                     console.log("Date: " + date + "\n");
                 }
-            } else {console.log("No info found.")}
+            } else {
+                console.log("No info found.");
+            }
+        })
+        .catch(function(err) {
+            console.log(err);
+        });
+}
+
+function movieThis(movie) {
+    axios
+        .get("http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy")
+        .then(function(response) {
+            if (response.data.Response === "True") {
+                console.log("=================================================================");
+                console.log("Title: " + response.data.Title + "\n");
+                console.log("Year: " + response.data.Year + "\n");
+                console.log("Rating: " + response.data.Rated + "\n");
+                console.log("Rotten Tomatoes: " + response.data.Ratings[1].Value + "\n");
+                console.log("Country of Production: " + response.data.Country + "\n");
+                console.log("Language(s): " + response.data.Language + "\n");
+                console.log("Plot: \n" + response.data.Plot + "\n");
+                console.log("Actors: \n" + response.data.Actors + "\n");
+            } else {
+                console.log("Movie not found.");
+            }
         })
         .catch(function(err) {
             console.log(err);
