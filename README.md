@@ -12,7 +12,8 @@ LIRI-bot takes in either of the following commands.
 1. 'node liri.js concert-this <artist/band name here'
 * This command searches the Bands in Town Artist Events API for an artist and renders the name of the venue, the venue location, and the date of the event, for each event to the terminal. 
 
-2. 'node liri.js spotify-this-song <song name here>'..
+2. 'node liri.js spotify-this-song <song name here>'
+
 This will show the following information in the terminal.
   * Artist
   * The song's name
