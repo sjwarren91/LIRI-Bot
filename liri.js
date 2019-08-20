@@ -4,12 +4,15 @@ var Spotify = require("node-spotify-api");
 var axios = require("axios");
 var moment = require("moment");
 var fs = require("fs");
+var br = "=================================================================\n";
 
 var spotify = new Spotify(keys.spotify);
 
 var command = process.argv[2];
 
 var variable = process.argv.splice(3).join(" ");
+
+saveFile("\nCommand: " + command + "\n");
 
 switch (command) {
     case "spotify-this-song":
@@ -27,7 +30,6 @@ switch (command) {
         break;
     case "do-what-it-says":
         doWhatItSays();
-        break;
 }
 
 function spotifyThisSong(song) {
@@ -38,12 +40,10 @@ function spotifyThisSong(song) {
             var name = response.tracks.items[0].name;
             var artist = response.tracks.items[0].artists[0].name;
             var link = response.tracks.items[0].external_urls.spotify;
-
-            console.log("=================================================================");
-            console.log("Artist: " + artist + "\n");
-            console.log("Song: " + name + "\n");
-            console.log("Album: " + album + "\n");
-            console.log("link: " + link + "\n");
+            var output =
+                "Artist: " + artist + "\n" + "Song: " + name + "\n" + "Album: " + album + "\n" + "link: " + link + "\n";
+            console.log(br + output);
+            saveFile(output);
         })
         .catch(function(err) {
             console.log(err);
@@ -54,24 +54,22 @@ function concertThis(artist) {
     axios
         .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
         .then(function(response) {
-
             if (response.data.length > 0) {
                 for (let i = 0; i < response.data.length; i++) {
                     var venue, location, date;
-                    
-                    if(response.data[i].venue){
+
+                    if (response.data[i].venue) {
                         venue = response.data[i].venue.name;
                         location = response.data[i].venue.city + ", " + response.data[i].venue.region;
                     }
 
-                    if(response.data[i].datetime){
+                    if (response.data[i].datetime) {
                         date = moment(response.data[i].datetime.split("T")[0], "YYYY-MM-DD").format("DD/MM/YYYY");
                     }
 
-                    console.log("=================================================================");
-                    console.log("Venue: " + venue + "\n");
-                    console.log("Location: " + location + "\n");
-                    console.log("Date: " + date + "\n");
+                    var output = "Venue: " + venue + "\n" + "Location: " + location + "\n" + "Date: " + date + "\n";
+                    console.log(br + output);
+                    saveFile(output);
                 }
             } else {
                 console.log("No info found.");
@@ -87,15 +85,33 @@ function movieThis(movie) {
         .get("http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy")
         .then(function(response) {
             if (response.data.Response === "True") {
-                console.log("=================================================================");
-                console.log("Title: " + response.data.Title + "\n");
-                console.log("Year: " + response.data.Year + "\n");
-                console.log("Rating: " + response.data.Rated + "\n");
-                console.log("Rotten Tomatoes: " + response.data.Ratings[1].Value + "\n");
-                console.log("Country of Production: " + response.data.Country + "\n");
-                console.log("Language(s): " + response.data.Language + "\n");
-                console.log("Plot: \n" + response.data.Plot + "\n");
-                console.log("Actors: \n" + response.data.Actors + "\n");
+                var output =
+                    "Title: " +
+                    response.data.Title +
+                    "\n" +
+                    "Year: " +
+                    response.data.Year +
+                    "\n" +
+                    "Rating: " +
+                    response.data.Rated +
+                    "\n" +
+                    "Rotten Tomatoes: " +
+                    response.data.Ratings[1].Value +
+                    "\n" +
+                    "Country of Production: " +
+                    response.data.Country +
+                    "\n" +
+                    "Language(s): " +
+                    response.data.Language +
+                    "\n" +
+                    "Plot: \n" +
+                    response.data.Plot +
+                    "\n" +
+                    "Actors: \n" +
+                    response.data.Actors +
+                    "\n";
+                console.log(br + output)    
+                saveFile(output);
             } else {
                 console.log("Movie not found.");
             }
@@ -123,5 +139,11 @@ function doWhatItSays() {
                 spotifyThisSong(dataArr[1]);
                 break;
         }
+    });
+}
+
+function saveFile(text) {
+    fs.appendFile("log.txt", text, function(err) {
+        if (err) throw err;
     });
 }
