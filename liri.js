@@ -16,7 +16,11 @@ saveFile("\nCommand: " + command + "\n");
 
 switch (command) {
     case "spotify-this-song":
-        spotifyThisSong(variable);
+        if (variable){
+            spotifyThisSong(variable);
+        } else {
+            spotifyThisSong("The Sign");
+        }
         break;
     case "concert-this":
         concertThis(variable);
