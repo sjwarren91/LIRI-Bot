@@ -345,3 +345,186 @@ Command: concert-this
 Telenor Arena Shuttlebuss in Oslo, Norway on the 07/09/2019Royal Arena in København S, Denmark on the 08/09/2019Mercedes-Benz Arena in Berlin, Germany on the 10/09/2019Ziggo Dome in Amsterdam, Netherlands on the 12/09/2019The O2 in London, United Kingdom on the 14/09/2019Arena Birmingham in Birmingham, United Kingdom on the 17/09/2019The O2 in London, United Kingdom on the 15/09/2019The Formula 1 Singapore Grand Prix in Singapore, Singapore on the 21/09/2019Foro Sol in Mexico City, Mexico on the 02/10/2019Foro Sol in Mexico City, Mexico on the 03/10/2019Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] in Rio De Janeiro, Brazil on the 06/10/2019Allianz Parque in Sao Paulo, Brazil on the 09/10/2019Argentinian Racetrack of Palermo in Comuna 14, Argentina on the 11/10/2019Pista Atletica in Santiago, Chile on the 13/10/2019JOCKEY CLUB - LA PELOUSSE in Lima, Peru on the 15/10/2019
 Command: concert-this
 Telenor Arena Shuttlebuss in Oslo, Norway on the 07/09/2019Royal Arena in København S, Denmark on the 08/09/2019Mercedes-Benz Arena in Berlin, Germany on the 10/09/2019Ziggo Dome in Amsterdam, Netherlands on the 12/09/2019The O2 in London, United Kingdom on the 14/09/2019Arena Birmingham in Birmingham, United Kingdom on the 17/09/2019The O2 in London, United Kingdom on the 15/09/2019The Formula 1 Singapore Grand Prix in Singapore, Singapore on the 21/09/2019Foro Sol in Mexico City, Mexico on the 02/10/2019Foro Sol in Mexico City, Mexico on the 03/10/2019Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] in Rio De Janeiro, Brazil on the 06/10/2019Allianz Parque in Sao Paulo, Brazil on the 09/10/2019Argentinian Racetrack of Palermo in Comuna 14, Argentina on the 11/10/2019Pista Atletica in Santiago, Chile on the 13/10/2019JOCKEY CLUB - LA PELOUSSE in Lima, Peru on the 15/10/2019
+Command: concert-this
+Telenor Arena Shuttlebuss in Oslo, Norway on the 07/09/2019Royal Arena in København S, Denmark on the 08/09/2019Mercedes-Benz Arena in Berlin, Germany on the 10/09/2019Ziggo Dome in Amsterdam, Netherlands on the 12/09/2019The O2 in London, United Kingdom on the 15/09/2019Arena Birmingham in Birmingham, United Kingdom on the 17/09/2019The O2 in London, United Kingdom on the 14/09/2019The Formula 1 Singapore Grand Prix in Singapore, Singapore on the 21/09/2019Foro Sol in Mexico City, Mexico on the 02/10/2019Foro Sol in Mexico City, Mexico on the 03/10/2019Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] in Rio De Janeiro, Brazil on the 06/10/2019Allianz Parque in Sao Paulo, Brazil on the 09/10/2019Argentinian Racetrack of Palermo in Comuna 14, Argentina on the 11/10/2019Pista Atletica in Santiago, Chile on the 13/10/2019JOCKEY CLUB - LA PELOUSSE in Lima, Peru on the 15/10/2019
+Command: conert-this
+
+Command: concert-this
+Telenor Arena Shuttlebuss in Oslo, Norway on the 07/09/2019Royal Arena in København S, Denmark on the 08/09/2019Mercedes-Benz Arena in Berlin, Germany on the 10/09/2019Ziggo Dome in Amsterdam, Netherlands on the 12/09/2019The O2 in London, United Kingdom on the 14/09/2019The O2 in London, United Kingdom on the 15/09/2019Arena Birmingham in Birmingham, United Kingdom on the 17/09/2019Foro Sol in Mexico City, Mexico on the 02/10/2019The Formula 1 Singapore Grand Prix in Singapore, Singapore on the 21/09/2019Foro Sol in Mexico City, Mexico on the 03/10/2019Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] in Rio De Janeiro, Brazil on the 06/10/2019Allianz Parque in Sao Paulo, Brazil on the 09/10/2019Argentinian Racetrack of Palermo in Comuna 14, Argentina on the 11/10/2019Pista Atletica in Santiago, Chile on the 13/10/2019JOCKEY CLUB - LA PELOUSSE in Lima, Peru on the 15/10/2019
+Command: concert-this
+Telenor Arena Shuttlebuss in Oslo, Norway on the 07/09/2019Royal Arena in København S, Denmark on the 08/09/2019Mercedes-Benz Arena in Berlin, Germany on the 10/09/2019Ziggo Dome in Amsterdam, Netherlands on the 12/09/2019The O2 in London, United Kingdom on the 14/09/2019The O2 in London, United Kingdom on the 15/09/2019Arena Birmingham in Birmingham, United Kingdom on the 17/09/2019The Formula 1 Singapore Grand Prix in Singapore, Singapore on the 21/09/2019Foro Sol in Mexico City, Mexico on the 02/10/2019Foro Sol in Mexico City, Mexico on the 03/10/2019Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] in Rio De Janeiro, Brazil on the 06/10/2019Allianz Parque in Sao Paulo, Brazil on the 09/10/2019Argentinian Racetrack of Palermo in Comuna 14, Argentina on the 11/10/2019Pista Atletica in Santiago, Chile on the 13/10/2019JOCKEY CLUB - LA PELOUSSE in Lima, Peru on the 15/10/2019
+Command: spotify-this-song
+Artist: Polaris
+Song: Regress
+Album: The Guilt & The Grief
+link: https://open.spotify.com/track/6jR1AS4rPNbv3t7qj9exQG
+Artist: The Dear Hunter
+Song: Regress
+Album: Act V: Hymns with the Devil in Confessional
+link: https://open.spotify.com/track/59oL5ViTv269IMOrPPFEls
+Artist: Marianne Talya
+Song: Regress
+Album: Breakfast Meditation Routine
+link: https://open.spotify.com/track/4MXSCOz4krJlXZidgpDMOe
+Artist: The Show Ponies
+Song: I Regress
+Album: We're Not Lost
+link: https://open.spotify.com/track/1ssSh8b83eyFGwRvMkSeu0
+Artist: Holy Wave
+Song: Nation in Regress
+Album: Adult Fear
+link: https://open.spotify.com/track/2QftQrTd8UfMoID7kgBV73
+Artist: Indie Anthony
+Song: Regress
+Album: OKOK
+link: https://open.spotify.com/track/2I9nPtwoCGftPmguC6BYJR
+Artist: Kurt Travis
+Song: 25 New Ways to Regress
+Album: Wha Happen?
+link: https://open.spotify.com/track/5MATBK7Er9MIWetUi2kSfK
+Artist: Praa
+Song: Infinite Regress
+Album: Infinite Regress
+link: https://open.spotify.com/track/1Wy9Nj99yMVVOarBSupuGt
+Artist: Broken Teeth
+Song: Leach Regress To Snake
+Album: At Peace Amongst Chaos
+link: https://open.spotify.com/track/39IrjGDxmBrFEnYs94clMv
+Artist: 7 Seconds
+Song: Regress, no Way - Live
+Album: Scream Real Loud (Live)
+link: https://open.spotify.com/track/4YQ2pGxPnR2VJYtgSEjkXk
+Artist: Cultdreams
+Song: Repent, Regress
+Album: Things That Hurt
+link: https://open.spotify.com/track/557vS8cUcPRaSYout1oXnp
+Artist: Slabdragger
+Song: Bab El-Mandeb
+Album: Regress
+link: https://open.spotify.com/track/70X1c8VwQJwFXiUBqufdd9
+Artist: Napalm Death
+Song: Birth In Regress
+Album: Inside The Torn Apart
+link: https://open.spotify.com/track/3cT578pduPvqAgG3u5r34q
+Artist: Snowblower
+Song: Regress
+Album: Snow Season, Vol. 1
+link: https://open.spotify.com/track/4hZ7QDZODptwLuWBSUU0Mj
+Artist: Hatchet
+Song: Where Futures Regress
+Album: Dying to Exist
+link: https://open.spotify.com/track/4xIXOVSP7H9rl1yvuBFBqn
+Artist: This Cold Night
+Song: Regress
+Album: We of Like Minds
+link: https://open.spotify.com/track/4k7e2fmos6rxvwYaUJr8gq
+Artist: Delamere
+Song: Regress
+Album: Delamere
+link: https://open.spotify.com/track/6JGxRX1UNr3TsMj5q8B6mn
+Artist: Brian Tyler
+Song: Regress
+Album: Criminal (Original Motion Picture Soundtrack)
+link: https://open.spotify.com/track/7FrCgXd8pIxR2np8mNCiwR
+Artist: Iron Curtain
+Song: Regress
+Album: The Road
+link: https://open.spotify.com/track/2bFYYqYz8ReGghAlXB1zJA
+Artist: Slabdragger
+Song: Iron Vulture
+Album: Regress
+link: https://open.spotify.com/track/0OpNyyCQu7pXSa2VyJ0E2n
+
+Command: spotify-this-song
+Artist: Ace of Base
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+Command: spotify-this-song
+Artist: Polaris
+Song: Regress
+Album: The Guilt & The Grief
+link: https://open.spotify.com/track/6jR1AS4rPNbv3t7qj9exQG
+Artist: The Dear Hunter
+Song: Regress
+Album: Act V: Hymns with the Devil in Confessional
+link: https://open.spotify.com/track/59oL5ViTv269IMOrPPFEls
+Artist: Marianne Talya
+Song: Regress
+Album: Breakfast Meditation Routine
+link: https://open.spotify.com/track/4MXSCOz4krJlXZidgpDMOe
+Artist: The Show Ponies
+Song: I Regress
+Album: We're Not Lost
+link: https://open.spotify.com/track/1ssSh8b83eyFGwRvMkSeu0
+Artist: Indie Anthony
+Song: Regress
+Album: OKOK
+link: https://open.spotify.com/track/2I9nPtwoCGftPmguC6BYJR
+Artist: Kurt Travis
+Song: 25 New Ways to Regress
+Album: Wha Happen?
+link: https://open.spotify.com/track/5MATBK7Er9MIWetUi2kSfK
+Artist: Holy Wave
+Song: Nation in Regress
+Album: Adult Fear
+link: https://open.spotify.com/track/2QftQrTd8UfMoID7kgBV73
+Artist: Praa
+Song: Infinite Regress
+Album: Infinite Regress
+link: https://open.spotify.com/track/1Wy9Nj99yMVVOarBSupuGt
+Artist: Broken Teeth
+Song: Leach Regress To Snake
+Album: At Peace Amongst Chaos
+link: https://open.spotify.com/track/39IrjGDxmBrFEnYs94clMv
+Artist: 7 Seconds
+Song: Regress, no Way - Live
+Album: Scream Real Loud (Live)
+link: https://open.spotify.com/track/4YQ2pGxPnR2VJYtgSEjkXk
+Artist: Cultdreams
+Song: Repent, Regress
+Album: Things That Hurt
+link: https://open.spotify.com/track/557vS8cUcPRaSYout1oXnp
+Artist: Slabdragger
+Song: Bab El-Mandeb
+Album: Regress
+link: https://open.spotify.com/track/70X1c8VwQJwFXiUBqufdd9
+Artist: Napalm Death
+Song: Birth In Regress
+Album: Inside The Torn Apart
+link: https://open.spotify.com/track/3cT578pduPvqAgG3u5r34q
+Artist: Snowblower
+Song: Regress
+Album: Snow Season, Vol. 1
+link: https://open.spotify.com/track/4hZ7QDZODptwLuWBSUU0Mj
+Artist: Hatchet
+Song: Where Futures Regress
+Album: Dying to Exist
+link: https://open.spotify.com/track/4xIXOVSP7H9rl1yvuBFBqn
+Artist: This Cold Night
+Song: Regress
+Album: We of Like Minds
+link: https://open.spotify.com/track/4k7e2fmos6rxvwYaUJr8gq
+Artist: Delamere
+Song: Regress
+Album: Delamere
+link: https://open.spotify.com/track/6JGxRX1UNr3TsMj5q8B6mn
+Artist: Brian Tyler
+Song: Regress
+Album: Criminal (Original Motion Picture Soundtrack)
+link: https://open.spotify.com/track/7FrCgXd8pIxR2np8mNCiwR
+Artist: Iron Curtain
+Song: Regress
+Album: The Road
+link: https://open.spotify.com/track/2bFYYqYz8ReGghAlXB1zJA
+Artist: Slabdragger
+Song: Iron Vulture
+Album: Regress
+link: https://open.spotify.com/track/0OpNyyCQu7pXSa2VyJ0E2n
+
+Command: spotify-this-song
+Artist: Ace of Base
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE

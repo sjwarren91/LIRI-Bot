@@ -22,4 +22,8 @@ This will show the following information in the terminal.
   * A preview link of the song from Spotify
   * The album that the song is from
 
+![](./images/gif2.gif)
+
 If no song is provided then the bot will default to "The Sign" by Ace of Base.
+
+![](./images/gif3.gif)
