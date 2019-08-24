@@ -16,10 +16,11 @@ saveFile("\nCommand: " + command + "\n");
 
 switch (command) {
     case "spotify-this-song":
-        if (variable){
+        if (variable) {
             spotifyThisSong(variable);
         } else {
-            spotifyThisSong("The Sign");
+            variable = "The Sign";
+            spotifyThisSong(variable);
         }
         break;
     case "concert-this":
@@ -38,16 +39,56 @@ switch (command) {
 
 function spotifyThisSong(song) {
     spotify
-        .search({ type: "track", query: song, limit: 1 })
+        .search({ type: "track", query: song, limit: 20 })
         .then(function(response) {
-            var album = response.tracks.items[0].album.name;
-            var name = response.tracks.items[0].name;
-            var artist = response.tracks.items[0].artists[0].name;
-            var link = response.tracks.items[0].external_urls.spotify;
-            var output =
-                "Artist: " + artist + "\n" + "Song: " + name + "\n" + "Album: " + album + "\n" + "link: " + link + "\n";
-            console.log(br + output);
-            saveFile(output);
+            if (song === "The Sign") {
+                for(let i = 0; i < 20; i++){
+                    if (response.tracks.items[i].artists[0].name === "Ace of Base") {
+                        var album = response.tracks.items[i].album.name;
+                        var name = response.tracks.items[i].name;
+                        var artist = response.tracks.items[i].artists[0].name;
+                        var link = response.tracks.items[i].external_urls.spotify;
+                        var output =
+                            "Artist: " +
+                            artist +
+                            "\n" +
+                            "Song: " +
+                            name +
+                            "\n" +
+                            "Album: " +
+                            album +
+                            "\n" +
+                            "link: " +
+                            link +
+                            "\n";
+                        console.log(br + output);
+                        saveFile(output);
+                        return;
+                    }
+                }
+            } else {
+                response.tracks.items.forEach(element => {
+                    var album = element.album.name;
+                    var name = element.name;
+                    var artist = element.artists[0].name;
+                    var link = element.external_urls.spotify;
+                    var output =
+                        "Artist: " +
+                        artist +
+                        "\n" +
+                        "Song: " +
+                        name +
+                        "\n" +
+                        "Album: " +
+                        album +
+                        "\n" +
+                        "link: " +
+                        link +
+                        "\n";
+                    console.log(br + output);
+                    saveFile(output);
+                });
+            }
         })
         .catch(function(err) {
             console.log(err);
@@ -59,20 +100,21 @@ function concertThis(artist) {
         .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
         .then(function(response) {
             if (response.data.length > 0) {
+                console.log("Events for " + artist + "\n" + br);
                 for (let i = 0; i < response.data.length; i++) {
                     var venue, location, date;
 
                     if (response.data[i].venue) {
                         venue = response.data[i].venue.name;
-                        location = response.data[i].venue.city + ", " + response.data[i].venue.region;
+                        location = response.data[i].venue.city + ", " + response.data[i].venue.country;
                     }
 
                     if (response.data[i].datetime) {
                         date = moment(response.data[i].datetime.split("T")[0], "YYYY-MM-DD").format("DD/MM/YYYY");
                     }
 
-                    var output = "Venue: " + venue + "\n" + "Location: " + location + "\n" + "Date: " + date + "\n";
-                    console.log(br + output);
+                    var output = venue + " in " + location + " on the " + date;
+                    console.log(output);
                     saveFile(output);
                 }
             } else {
@@ -114,7 +156,7 @@ function movieThis(movie) {
                     "Actors: \n" +
                     response.data.Actors +
                     "\n";
-                console.log(br + output)    
+                console.log(br + output);
                 saveFile(output);
             } else {
                 console.log("Movie not found.");

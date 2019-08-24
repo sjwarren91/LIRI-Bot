@@ -1,0 +1,342 @@
+
+Command: concert-this
+Venue: Royal Arena
+Location: København S, 
+Date: 08/09/2019
+Venue: Mercedes-Benz Arena
+Location: Berlin, 
+Date: 10/09/2019
+Venue: Telenor Arena Shuttlebuss
+Location: Oslo, 
+Date: 07/09/2019
+Venue: Ziggo Dome
+Location: Amsterdam, 
+Date: 12/09/2019
+Venue: The O2
+Location: London, 
+Date: 15/09/2019
+Venue: The O2
+Location: London, 
+Date: 14/09/2019
+Venue: Arena Birmingham
+Location: Birmingham, 
+Date: 17/09/2019
+Venue: The Formula 1 Singapore Grand Prix
+Location: Singapore, 
+Date: 21/09/2019
+Venue: Foro Sol
+Location: Mexico City, 
+Date: 02/10/2019
+Venue: Foro Sol
+Location: Mexico City, 
+Date: 03/10/2019
+Venue: Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6]
+Location: Rio De Janeiro, 
+Date: 06/10/2019
+Venue: Allianz Parque
+Location: Sao Paulo, 
+Date: 09/10/2019
+Venue: Argentinian Racetrack of Palermo
+Location: Comuna 14, 
+Date: 11/10/2019
+Venue: Pista Atletica
+Location: Santiago, 
+Date: 13/10/2019
+Venue: JOCKEY CLUB - LA PELOUSSE
+Location: Lima, 
+Date: 15/10/2019
+
+Command: concert-this
+Telenor Arena Shuttlebuss at Oslo,  on the 07/09/2019
+Royal Arena at København S,  on the 08/09/2019
+Mercedes-Benz Arena at Berlin,  on the 10/09/2019
+Ziggo Dome at Amsterdam,  on the 12/09/2019
+The O2 at London,  on the 14/09/2019
+The O2 at London,  on the 15/09/2019
+Arena Birmingham at Birmingham,  on the 17/09/2019
+The Formula 1 Singapore Grand Prix at Singapore,  on the 21/09/2019
+Foro Sol at Mexico City,  on the 02/10/2019
+Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] at Rio De Janeiro,  on the 06/10/2019
+Foro Sol at Mexico City,  on the 03/10/2019
+Allianz Parque at Sao Paulo,  on the 09/10/2019
+Argentinian Racetrack of Palermo at Comuna 14,  on the 11/10/2019
+JOCKEY CLUB - LA PELOUSSE at Lima,  on the 15/10/2019
+Pista Atletica at Santiago,  on the 13/10/2019
+
+Command: concert-this
+Telenor Arena Shuttlebuss at Oslo,  on the 07/09/2019
+Royal Arena at København S,  on the 08/09/2019
+Mercedes-Benz Arena at Berlin,  on the 10/09/2019
+Ziggo Dome at Amsterdam,  on the 12/09/2019
+The O2 at London,  on the 14/09/2019
+The O2 at London,  on the 15/09/2019
+Arena Birmingham at Birmingham,  on the 17/09/2019
+The Formula 1 Singapore Grand Prix at Singapore,  on the 21/09/2019
+Foro Sol at Mexico City,  on the 02/10/2019
+Foro Sol at Mexico City,  on the 03/10/2019
+Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] at Rio De Janeiro,  on the 06/10/2019
+Allianz Parque at Sao Paulo,  on the 09/10/2019
+Argentinian Racetrack of Palermo at Comuna 14,  on the 11/10/2019
+Pista Atletica at Santiago,  on the 13/10/2019
+JOCKEY CLUB - LA PELOUSSE at Lima,  on the 15/10/2019
+
+Command: concert-this
+Telenor Arena Shuttlebuss at Oslo,  on the 07/09/2019
+Royal Arena at København S,  on the 08/09/2019
+Mercedes-Benz Arena at Berlin,  on the 10/09/2019
+Ziggo Dome at Amsterdam,  on the 12/09/2019
+The O2 at London,  on the 15/09/2019
+The O2 at London,  on the 14/09/2019
+Arena Birmingham at Birmingham,  on the 17/09/2019
+Foro Sol at Mexico City,  on the 02/10/2019
+The Formula 1 Singapore Grand Prix at Singapore,  on the 21/09/2019
+Foro Sol at Mexico City,  on the 03/10/2019
+Allianz Parque at Sao Paulo,  on the 09/10/2019
+Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] at Rio De Janeiro,  on the 06/10/2019
+Argentinian Racetrack of Palermo at Comuna 14,  on the 11/10/2019
+Pista Atletica at Santiago,  on the 13/10/2019
+JOCKEY CLUB - LA PELOUSSE at Lima,  on the 15/10/2019
+
+Command: concert-this
+Telenor Arena Shuttlebuss at Oslo,  on the 07/09/2019
+Royal Arena at København S,  on the 08/09/2019
+Mercedes-Benz Arena at Berlin,  on the 10/09/2019
+Ziggo Dome at Amsterdam,  on the 12/09/2019
+The O2 at London,  on the 14/09/2019
+The O2 at London,  on the 15/09/2019
+Arena Birmingham at Birmingham,  on the 17/09/2019
+The Formula 1 Singapore Grand Prix at Singapore,  on the 21/09/2019
+Foro Sol at Mexico City,  on the 02/10/2019
+Foro Sol at Mexico City,  on the 03/10/2019
+Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] at Rio De Janeiro,  on the 06/10/2019
+Allianz Parque at Sao Paulo,  on the 09/10/2019
+Argentinian Racetrack of Palermo at Comuna 14,  on the 11/10/2019
+Pista Atletica at Santiago,  on the 13/10/2019
+JOCKEY CLUB - LA PELOUSSE at Lima,  on the 15/10/2019
+
+Command: concert-this
+Telenor Arena Shuttlebuss at Oslo, Norway on the 07/09/2019
+Mercedes-Benz Arena at Berlin, Germany on the 10/09/2019
+Royal Arena at København S, Denmark on the 08/09/2019
+Ziggo Dome at Amsterdam, Netherlands on the 12/09/2019
+The O2 at London, United Kingdom on the 14/09/2019
+The O2 at London, United Kingdom on the 15/09/2019
+Arena Birmingham at Birmingham, United Kingdom on the 17/09/2019
+The Formula 1 Singapore Grand Prix at Singapore, Singapore on the 21/09/2019
+Foro Sol at Mexico City, Mexico on the 02/10/2019
+Foro Sol at Mexico City, Mexico on the 03/10/2019
+Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] at Rio De Janeiro, Brazil on the 06/10/2019
+Allianz Parque at Sao Paulo, Brazil on the 09/10/2019
+Argentinian Racetrack of Palermo at Comuna 14, Argentina on the 11/10/2019
+Pista Atletica at Santiago, Chile on the 13/10/2019
+JOCKEY CLUB - LA PELOUSSE at Lima, Peru on the 15/10/2019
+
+Command: spotify-this-song
+Artist: Polaris
+Song: Regress
+Album: The Guilt & The Grief
+link: https://open.spotify.com/track/6jR1AS4rPNbv3t7qj9exQG
+
+Command: spotify-this-song
+Artist: Ty Dolla $ign
+Song: Hottest In The City
+Album: Hottest In The City
+link: https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4
+
+Command: concert-this
+Telenor Arena Shuttlebuss in Oslo, Norway on the 07/09/2019Royal Arena in København S, Denmark on the 08/09/2019Mercedes-Benz Arena in Berlin, Germany on the 10/09/2019Ziggo Dome in Amsterdam, Netherlands on the 12/09/2019The O2 in London, United Kingdom on the 15/09/2019The O2 in London, United Kingdom on the 14/09/2019Arena Birmingham in Birmingham, United Kingdom on the 17/09/2019The Formula 1 Singapore Grand Prix in Singapore, Singapore on the 21/09/2019Foro Sol in Mexico City, Mexico on the 02/10/2019Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] in Rio De Janeiro, Brazil on the 06/10/2019Foro Sol in Mexico City, Mexico on the 03/10/2019Allianz Parque in Sao Paulo, Brazil on the 09/10/2019Argentinian Racetrack of Palermo in Comuna 14, Argentina on the 11/10/2019JOCKEY CLUB - LA PELOUSSE in Lima, Peru on the 15/10/2019Pista Atletica in Santiago, Chile on the 13/10/2019
+Command: spotify-this-song
+Artist: Ty Dolla $ign
+Song: Hottest In The City
+Album: Hottest In The City
+link: https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4
+
+Command: spotify-this-song
+Artist: Ty Dolla $ign
+Song: Hottest In The City
+Album: Hottest In The City
+link: https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4
+
+Command: spotify-this-song
+Artist: Ty Dolla $ign
+Song: Hottest In The City
+Album: Hottest In The City
+link: https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4
+Artist: Harry Styles
+Song: Sign of the Times
+Album: Harry Styles
+link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Artist: Lil Wayne
+Song: Scared of the Dark (feat. XXXTENTACION)
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+link: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
+Artist: Ace of Base
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Artist: Dreamville
+Song: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+Album: Revenge Of The Dreamers III
+link: https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL
+Artist: Jeremih
+Song: Impatient
+Album: Late Nights: The Album
+link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Artist: Ty Dolla $ign
+Song: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Artist: Harry Styles
+Song: Sign of the Times
+Album: Sign of the Times
+link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Artist: YBN Cordae
+Song: Way Back Home (feat. Ty Dolla $ign)
+Album: The Lost Boy
+link: https://open.spotify.com/track/1pHyMdmKAp494PDSZhJHvR
+Artist: Mac Miller
+Song: Cinderella (feat. Ty Dolla $ign)
+Album: The Divine Feminine
+link: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
+Artist: Jeremih
+Song: The Light
+Album: The Light
+link: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
+Artist: Ty Dolla $ign
+Song: Love U Better (feat. Lil Wayne & The-Dream)
+Album: Beach House 3
+link: https://open.spotify.com/track/270aLuFCbX32hhBr8MQyPM
+Artist: The Chainsmokers
+Song: Do You Mean
+Album: World War Joy...Takeaway
+link: https://open.spotify.com/track/0ZBP7LB2JvzoaKsBFElGRF
+Artist: Rich The Kid
+Song: Woah (feat. Miguel & Ty Dolla $ign)
+Album: The World Is Yours 2
+link: https://open.spotify.com/track/2lAUMDyWq80slJVsrYyD7N
+Artist: Quality Control
+Song: Movin’ Up
+Album: Quality Control: Control The Streets Volume 1
+link: https://open.spotify.com/track/7jTL6K5hqWDVUH4j2thZrp
+Artist: Jeremih
+Song: The Light
+Album: MIH-TY
+link: https://open.spotify.com/track/0YIfZYYfVytcD1q0Mx57Ey
+Artist: Ronny J
+Song: Lights Out (feat. Ty Dolla $ign & Rich The Kid)
+Album: Lights Out (feat. Ty Dolla $ign & Rich The Kid)
+link: https://open.spotify.com/track/26LRMtK7JytCxbDAMcexWZ
+Artist: Jeezy
+Song: 4Play
+Album: TM104: The Legend of the Snowman
+link: https://open.spotify.com/track/1GuvS5Zyu2RK2TeHODZn90
+Artist: Jeezy
+Song: 4Play
+Album: TM104: The Legend of the Snowman
+link: https://open.spotify.com/track/0LjuiJpPE8f3GfA1mTndkR
+Artist: Ace of Base
+Song: All That She Wants
+Album: The Sign (US Album) [Remastered]
+link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+
+Command: spotify-this-song
+
+Command: spotify-this-song
+Artist: Ace of Base
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Artist: Ace of Base
+Song: All That She Wants
+Album: The Sign (US Album) [Remastered]
+link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+
+Command: spotify-this-song
+
+Command: spotify-this-song
+Artist: Ace of Base
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+Command: spotify-this-song
+Artist: Lil Keed
+Song: Nameless
+Album: Keed Talk To 'Em
+link: https://open.spotify.com/track/4itETlhUWW6GFzYZwEL8do
+Artist: Slipknot
+Song: The Nameless
+Album: Vol. 3: The Subliminal Verses [Special Package]
+link: https://open.spotify.com/track/6GCusUym0CAdFS2g1qG79Y
+Artist: Nirvana
+Song: Endless, Nameless
+Album: Nevermind (Remastered)
+link: https://open.spotify.com/track/0vNHCXmNzVa8h54SE3JDm7
+Artist: Courtney Barnett
+Song: Nameless, Faceless
+Album: Tell Me How You Really Feel
+link: https://open.spotify.com/track/0d29ZVNUaxWOtUFzElL3B9
+Artist: Slipknot
+Song: The Nameless
+Album: Vol. 3 The Subliminal Verses
+link: https://open.spotify.com/track/3AdOyHpDWPX5wtTgyQ2u9J
+Artist: Volbeat
+Song: The Nameless One
+Album: Outlaw Gentlemen & Shady Ladies
+link: https://open.spotify.com/track/0XhrFdPqMsH40f7Z0gAHpi
+Artist: Florence + The Machine
+Song: Remain Nameless
+Album: Ceremonials (Deluxe Edition)
+link: https://open.spotify.com/track/0M15sFSsMfO5Js7FT7EjZg
+Artist: Courtney Barnett
+Song: Nameless, Faceless
+Album: Nameless, Faceless
+link: https://open.spotify.com/track/2AUzpScdGwIZplM9y8nkbx
+Artist: Shayne Orok
+Song: Nameless Story (That Time I Got Reincarnated As a Slime)
+Album: Nameless Story (That Time I Got Reincarnated As a Slime)
+link: https://open.spotify.com/track/7y1WH9vTsjBIWOOpBdfYZa
+Artist: Fit For A King
+Song: More Than Nameless
+Album: Deathgrip
+link: https://open.spotify.com/track/4ah4HJADAX20HzFybkLKhq
+Artist: Modern Baseball
+Song: My Love
+Album: The Nameless Ranger
+link: https://open.spotify.com/track/75BGEsL0HhgqzR9y9tpHVv
+Artist: Matisyahu
+Song: One Day (feat. Nameless)
+Album: Listen Up! The Official 2010 FIFA World Cup Album
+link: https://open.spotify.com/track/36Y2yvl6AA54CvuZQbBcsX
+Artist: Motoi Sakuraba
+Song: Nameless King
+Album: Dark Souls 3
+link: https://open.spotify.com/track/48y2qMsFA7h5M2MaF3ekOM
+Artist: Motoi Sakuraba
+Song: Nameless Song
+Album: Dark Souls
+link: https://open.spotify.com/track/1jIRYhXd9NAtGLrMPc9gLz
+Artist: Modern Baseball
+Song: Revenge Of The Nameless Ranger
+Album: MOBO Presents: The Perfect Cast EP feat. Modern Baseball
+link: https://open.spotify.com/track/30fNvvzoJKrvkhSp1SeiZr
+Artist: Gesaffelstein
+Song: Nameless
+Album: Aleph
+link: https://open.spotify.com/track/4Lj9KL6nIAHi2GlVjPCeia
+Artist: Nirvana
+Song: Endless, Nameless
+Album: Nevermind
+link: https://open.spotify.com/track/1uGTyfBZkQpyS0wLEAdlvh
+Artist: Winds of Plague
+Song: Nameless Walker
+Album: Blood Of My Enemy
+link: https://open.spotify.com/track/0lGOmiwa81lUnd5JV9TaXr
+Artist: J. Human
+Song: Nameless
+Album: Nameless
+link: https://open.spotify.com/track/7LJBxzBNkDumx9Z5xcfVRZ
+Artist: Modern Baseball
+Song: Short
+Album: The Nameless Ranger
+link: https://open.spotify.com/track/2t52O2l1Ou4xoO7YtG2iR1

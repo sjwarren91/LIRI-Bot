@@ -9,7 +9,7 @@ LIRI-bot takes in either of the following commands.
 * 'do-what-it-says'
 
 ## What does each command do?
-1. 'node liri.js concert-this <artist/band name here'
+1. 'node liri.js concert-this <artist/band name here>'
 * This command searches the Bands in Town Artist Events API for an artist and renders the name of the venue, the venue location, and the date of the event, for each event to the terminal. 
 
 2. 'node liri.js spotify-this-song <song name here>'
